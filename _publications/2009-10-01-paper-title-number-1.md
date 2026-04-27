@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 1"
+title: "Modern Optimization Techniques Based PID Controller Tuning for the Speed Control of a DC Motor"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/modern-optimization-pid-dc-motor
+excerpt: 'This paper presents the application of modern optimization techniques for tuning PID controllers to achieve efficient speed control of a DC motor.'
+date: October 2023
+venue: 'CIMachineLearning Journal'
+slidesurl: ''
+paperurl: 'https://www.cimachinelearning.com/assets/article/modern-optimization-techniques.pdf'
+bibtexurl: ''
+citation: 'Pandey, S. (2009). "Modern Optimization Techniques Based PID Controller Tuning for the Speed Control of a DC Motor." <i>CIMachineLearning Journal</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper explores the use of modern optimization algorithms for tuning PID controller parameters in DC motor speed control systems. The study focuses on improving system performance in terms of stability, response time, and accuracy compared to conventional tuning methods. Various optimization techniques are analyzed and implemented to demonstrate their effectiveness in achieving optimal control behavior.
+
+Key contributions include:
+- Application of optimization-based PID tuning
+- Comparative performance analysis with traditional methods
+- Improved transient and steady-state response of DC motor systems
+- Practical insights for real-time control applications
+
+The findings highlight the potential of intelligent optimization techniques in enhancing control system design, especially in industrial and embedded applications.
