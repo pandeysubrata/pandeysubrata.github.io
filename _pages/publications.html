@@ -14,9 +14,11 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign pubs = site.publications | sort: "date" | reverse %}
+
 ## 📘 Journal Articles
 
-{% for post in site.publications %}
+{% for post in pubs %}
   {% if post.category == "journals" %}
     {% include archive-single.html %}
   {% endif %}
@@ -26,7 +28,7 @@ author_profile: true
 
 ## 🎤 Conference Papers
 
-{% for post in site.publications %}
+{% for post in pubs %}
   {% if post.category == "conferences" %}
     {% include archive-single.html %}
   {% endif %}
@@ -36,8 +38,8 @@ author_profile: true
 
 ## 📄 Other Publications
 
-{% for post in site.publications %}
-  {% if post.category != "journals" and post.category != "conferences" %}
+{% for post in pubs %}
+  {% unless post.category == "journals" or post.category == "conferences" %}
     {% include archive-single.html %}
-  {% endif %}
+  {% endunless %}
 {% endfor %}
