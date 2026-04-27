@@ -2,7 +2,7 @@
 title: "Modern Optimization Techniques Based PID Controller Tuning for the Speed Control of a DC Motor"
 collection: publications
 category: manuscripts
-permalink: /publication/modern-optimization-pid-dc-motor
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper presents the application of modern optimization techniques for tuning PID controllers to achieve efficient speed control of a DC motor.'
 date: October 2023
 venue: 'CIMachineLearning Journal'
