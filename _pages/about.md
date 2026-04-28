@@ -9,9 +9,11 @@ author_profile: true
 PhD Scholar in Electrical Engineering at National Institute of Technology Durgapur.
 ## 📊 Research Metrics
 
-[![Citations](https://img.shields.io/badge/dynamic/json?label=Google%20Scholar%20Citations&query=%24.citations&url=https://api.scholarbadge.com/O5_RI1oAAAAJ)](https://scholar.google.com/citations?user=O5_RI1oAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=O5_RI1oAAAAJ)
 
-[![h-index](https://img.shields.io/badge/dynamic/json?label=h-index&query=%24.hIndex&url=https://api.scholarbadge.com/O5_RI1oAAAAJ)](https://scholar.google.com/citations?user=O5_RI1oAAAAJ)
+- Citations: 25
+- h-index: 3
+- i10-index: 1
 
 ### Research Interests
 - Physiological Control Systems
