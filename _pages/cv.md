@@ -96,11 +96,14 @@ BIET Suri (WBUT), 2014
 
 ---
 
-## PUBLICATIONS
+## 📄 Publications
 
-- Pandey, S. & Mandal, S.K., *Biomimetic artificial skin for robots*, Indian Journal of Engineering, 2023  
-- Pandey, S., *PID controller tuning using optimization*, CIML, 2023
+### 📘 Journal Articles (scopus)
+- Pandey, S. & Mandal, S.K., *Biomimetic artificial skin for robots*, Indian Journal of Engineering, 2023
 - Pandey, S. & Mandal, S.K., *Development and Assessment of Highly Sensitive, Economically Viable, and Environmentally Sustainable Fabric-Based Flexible Capacitive Pressure Sensors*, Journal of Techniques, 2025
+  
+### 📄 Other Journal Publications
+- Pandey, S., *PID controller tuning using optimization*, CIML, 2023  
 
 ---
 
