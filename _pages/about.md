@@ -7,7 +7,7 @@ author_profile: true
 ## Subrata Pandey
 
 PhD Scholar in Electrical Engineering at National Institute of Technology Durgapur.
-## 📊 Research Metrics
+## Research Metrics
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=O5_RI1oAAAAJ)
 
