@@ -106,8 +106,8 @@ BIET Suri (WBUT), 2014
 - Pandey, S., *PID controller tuning using optimization*, CIML, 2023  
 
 ### 📝 Preprints (SSRN)
-- Pandey, S., *Transit Search Optimization Algorithm for Proportional-Integral-Derivative Controller Tuning for the Optimal DC Motor Speed Control: Classical Methods as Benchmark*, SSRN, 2023 (Preprint). Available at: https://dx.doi.org/10.2139/ssrn.4385203  
-- Pandey, S., *Optimization of PID Controller Parameters for Speed Control of DC Motor Using Firefly and Fminsearch Algorithms*, SSRN, 2023 (Preprint). Available at: https://dx.doi.org/10.2139/ssrn.4378784    
+- Pandey, S., *Transit Search Optimization Algorithm for Proportional-Integral-Derivative Controller Tuning for the Optimal DC Motor Speed Control: Classical Methods as Benchmark*, SSRN, 2023 (Preprint).
+- Pandey, S., *Optimization of PID Controller Parameters for Speed Control of DC Motor Using Firefly and Fminsearch Algorithms*, SSRN, 2023 (Preprint).  
 
 ---
 
