@@ -7,7 +7,7 @@ author_profile: true
 
 # Subrata Pandey  
 Murshidabad, West Bengal  
-📧 subratapandey.ee@gmail.com  
+subratapandey.ee@gmail.com  
 
 ---
 
